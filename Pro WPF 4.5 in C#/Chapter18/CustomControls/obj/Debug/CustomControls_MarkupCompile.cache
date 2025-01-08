@@ -4,17 +4,17 @@
 library
 C#
 .cs
-D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\
+C:\Users\cyliu\source\repos\cyliu12\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\
 CustomControls
 none
 false
 DEBUG;TRACE
 
-52127016464
+51476619132
 
-10-1300298366
-16383847280
+10-1710635199
+16-1389190416
 ColorPickerUserControl.xaml;themes\Classic.xaml;themes\ColorPicker.xaml;themes\FlipPanel.xaml;themes\generic.xaml;
 
-False
+True
 

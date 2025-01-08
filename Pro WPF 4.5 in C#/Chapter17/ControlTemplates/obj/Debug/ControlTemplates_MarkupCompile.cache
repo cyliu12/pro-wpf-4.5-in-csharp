@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Code\Pro WPF\Chapter17\ControlTemplates\obj\Debug\
+C:\Users\cyliu\source\repos\cyliu12\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter17\ControlTemplates\obj\Debug\
 ControlTemplates
 none
 false
 DEBUG;TRACE
-D:\Code\Pro WPF\Chapter17\ControlTemplates\App.xaml
-10566068234
+C:\Users\cyliu\source\repos\cyliu12\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter17\ControlTemplates\App.xaml
+10-1424847749
 
-12-95279637
-16383847280
+121566610095
+16-1389190416
 ButtonTemplate.xaml;ButtonWithAnimations.xaml;Resources\GradientButtonWithStyleSetters.xaml;SimpleCustomButton.xaml;Resources\GradientButtonVariant.xaml;Resources\GradientButton.xaml;Resources\ListBox.xaml;MultiPartTemplates.xaml;Menu.xaml;GradientButtonTest.xaml;
 
 False

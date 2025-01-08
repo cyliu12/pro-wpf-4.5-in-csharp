@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Code\Pro WPF\Chapter19\DataBinding\obj\Debug\
+C:\Users\cyliu\source\repos\cyliu12\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter19\DataBinding\obj\Debug\
 DataBinding
 none
 false
 DEBUG;TRACE
-D:\Code\Pro WPF\Chapter19\DataBinding\App.xaml
-11-761340114
+C:\Users\cyliu\source\repos\cyliu12\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter19\DataBinding\App.xaml
+11-1018793640
 
-17-89046199
-17-451504446
+17-2122793068
+17-1588427961
 BindingGroupValidation.xaml;BindToObjectDataProvider.xaml;BindToXmlDataProvider.xaml;VirtualizationTest.xaml;ValidationTest.xaml;BindToLinqFilteredCollection.xaml;BindProductObject.xaml;BindToCollection.xaml;BindToDataSet.xaml;EditProductObject.xaml;Menu.xaml;
 
-False
+True
 
